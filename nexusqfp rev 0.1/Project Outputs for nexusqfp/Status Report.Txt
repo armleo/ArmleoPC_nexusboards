@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [nexusqfp.PrjPcb]
+   Generated File[nexusqfp.TXT]
+   Generated File[nexusqfp-RectHoles.TXT]
+   Generated File[nexusqfp.LDP]
+   Generated File[nexusqfp.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:46:04 PM On 7/1/2018

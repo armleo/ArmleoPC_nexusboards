@@ -1,0 +1,10 @@
+------------------------------------------------------------
+Single Pin Net Report for extensionboard.PrjPcb
+-- 1/24/2019
+-- 7:47:30 PM
+------------------------------------------------------------
+
+Net SPDLED has only one pin (Pin U9-24)
+Net GPIO0_17 has only one pin (Pin P10-22)
+Net FT232_CLK has only one pin (Pin U1-23)
+Net DUPLED has only one pin (Pin U9-26)

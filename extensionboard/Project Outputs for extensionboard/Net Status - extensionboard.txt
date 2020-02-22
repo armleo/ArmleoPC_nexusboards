@@ -1,0 +1,88 @@
+Net Status Report
+Filename     : C:\Users\Armleo\Desktop\armleopc\extensionboard\extensionboard.PcbDoc
+Date         : 1/24/2019
+Time         : 7:47:49 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    3.3V, Signal Layers Only, 0mm
+    5V, Signal Layers Only, 0mm
+    5VUSB, Signal Layers Only, 13.3339mm
+    CT, Signal Layers Only, 21.3809mm
+    DIG_B0, Signal Layers Only, 31.291mm
+    DIG_B1, Signal Layers Only, 31.3934mm
+    DIG_G0, Signal Layers Only, 25.057mm
+    DIG_G1, Signal Layers Only, 21.6457mm
+    DIG_HSYNC, Signal Layers Only, 44.9441mm
+    DIG_R0, Signal Layers Only, 31.2075mm
+    DIG_R1, Signal Layers Only, 29.8843mm
+    DIG_VSYNC, Signal Layers Only, 42.8075mm
+    DUPLED, Signal Layers Only, 0mm
+    FLASH_CS, Signal Layers Only, 0mm
+    FPGA_KBD_CLOCK, Signal Layers Only, 9.7301mm
+    FPGA_KBD_DATA, Signal Layers Only, 6.0275mm
+    FPGA_MOUSE_CLOCK, Signal Layers Only, 16.9565mm
+    FPGA_MOUSE_DATA, Signal Layers Only, 14.9968mm
+    FPGA_PWM_LEFT, Signal Layers Only, 55.807mm
+    FPGA_PWM_RIGHT, Signal Layers Only, 0mm
+    FPGA_RX, Signal Layers Only, 63.8955mm
+    FPGA_TX, Signal Layers Only, 69.0365mm
+    FT232_CLK, Signal Layers Only, 0mm
+    GND, Signal Layers Only, 3.5811mm
+    GPIO0_0, Signal Layers Only, 0mm
+    GPIO0_10, Signal Layers Only, 0mm
+    GPIO0_12, Signal Layers Only, 0mm
+    GPIO0_14, Signal Layers Only, 0mm
+    GPIO0_17, Signal Layers Only, 0mm
+    GPIO0_23, Signal Layers Only, 34.9481mm
+    GPIO0_24, Signal Layers Only, 29.2661mm
+    GPIO0_25, Signal Layers Only, 30.3546mm
+    GPIO0_26, Signal Layers Only, 25.5424mm
+    GPIO0_27, Signal Layers Only, 26.9209mm
+    GPIO0_28, Signal Layers Only, 20.9421mm
+    GPIO0_9, Signal Layers Only, 0mm
+    KBD_CLOCK, Signal Layers Only, 17.9368mm
+    KBD_DATA, Signal Layers Only, 19.6883mm
+    MOUSE_CLOCK, Signal Layers Only, 17.2338mm
+    MOUSE_DATA, Signal Layers Only, 21.3284mm
+    NetC12_2, Signal Layers Only, 6.4529mm
+    NetC13_2, Signal Layers Only, 3.5929mm
+    NetC1_1, Signal Layers Only, 3.6781mm
+    NetC9_1, Signal Layers Only, 5.7567mm
+    NetD5_2, Signal Layers Only, 0mm
+    NetJ5_L2, Signal Layers Only, 56.5456mm
+    NetJ5_L4, Signal Layers Only, 62.4949mm
+    NetR15_2, Signal Layers Only, 2.7249mm
+    NetR28_1, Signal Layers Only, 2.502mm
+    NetR29_1, Signal Layers Only, 4.5465mm
+    NetR2_1, Signal Layers Only, 0mm
+    NetR38_1, Signal Layers Only, 4.554mm
+    NetR39_1, Signal Layers Only, 5.3036mm
+    NetR3_2, Signal Layers Only, 2.976mm
+    NetR40_1, Signal Layers Only, 5.9627mm
+    NetR41_1, Signal Layers Only, 3.7941mm
+    NetR42_2, Signal Layers Only, 8.8787mm
+    NetR43_2, Signal Layers Only, 20.3629mm
+    NetR4_2, Signal Layers Only, 6.7311mm
+    NetR5_2, Signal Layers Only, 4.5414mm
+    NetR9_2, Signal Layers Only, 6.2791mm
+    PWM_LEFT, Signal Layers Only, 8.4157mm
+    PWM_RIGHT, Signal Layers Only, 8.1001mm
+    RDN, Signal Layers Only, 9.9874mm
+    RDP, Signal Layers Only, 13.8377mm
+    RXN, Signal Layers Only, 11.4152mm
+    RXP, Signal Layers Only, 15.254mm
+    SPDLED, Signal Layers Only, 0mm
+    TDN, Signal Layers Only, 30.3524mm
+    TDP, Signal Layers Only, 25.3883mm
+    USBDM, Signal Layers Only, 0mm
+    USBDP, Signal Layers Only, 0mm
+    VGA_B, Signal Layers Only, 21.4008mm
+    VGA_G, Signal Layers Only, 14.1018mm
+    VGA_HSYNC, Signal Layers Only, 6.4675mm
+    VGA_R, Signal Layers Only, 13.6287mm
+    VGA_VSYNC, Signal Layers Only, 7.1791mm
+    W5500_25M, Signal Layers Only, 24.0769mm
+    W5500_nINT, Signal Layers Only, 0mm
+    W5500_nRST, Signal Layers Only, 0mm
+count : 80

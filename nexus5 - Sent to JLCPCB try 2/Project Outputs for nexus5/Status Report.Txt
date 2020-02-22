@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [nexus5.PrjPcb]
+   Generated File[nexus5-RoundHoles.TXT]
+   Generated File[nexus5-SlotHoles.TXT]
+   Generated File[nexus5-RectHoles.TXT]
+   Generated File[nexus5.LDP]
+   Generated File[nexus5.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 5:16:53 PM On 4/30/2019
